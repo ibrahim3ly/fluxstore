@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489054512547",
+    "firebase_url": "https://daleelshopping-44751-default-rtdb.firebaseio.com",
+    "project_id": "daleelshopping-44751",
+    "storage_bucket": "daleelshopping-44751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489054512547:android:7517135f3c2ec5f99f2616",
+        "android_client_info": {
+          "package_name": "com.daleel.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489054512547-130kph89i40saslf4jqj6h8rpdejauvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROiLYDMM0LQ7VgudFb_l0XjwN_lHal-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489054512547-130kph89i40saslf4jqj6h8rpdejauvd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489054512547-4v5an8aco5maoo8rlu08ga6m0n2h8vg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Daleel.sa",
+                "app_store_id": "6449682614"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
